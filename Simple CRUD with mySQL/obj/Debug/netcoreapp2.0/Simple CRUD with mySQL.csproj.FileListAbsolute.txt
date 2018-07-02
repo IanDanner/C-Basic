@@ -1,0 +1,10 @@
+C:\Users\NORSEMAN\Desktop\DojoAssignments\C#\C# Basic\Simple CRUD with mySQL\bin\Debug\netcoreapp2.0\Simple CRUD with mySQL.deps.json
+C:\Users\NORSEMAN\Desktop\DojoAssignments\C#\C# Basic\Simple CRUD with mySQL\bin\Debug\netcoreapp2.0\Simple CRUD with mySQL.runtimeconfig.json
+C:\Users\NORSEMAN\Desktop\DojoAssignments\C#\C# Basic\Simple CRUD with mySQL\bin\Debug\netcoreapp2.0\Simple CRUD with mySQL.runtimeconfig.dev.json
+C:\Users\NORSEMAN\Desktop\DojoAssignments\C#\C# Basic\Simple CRUD with mySQL\bin\Debug\netcoreapp2.0\Simple CRUD with mySQL.dll
+C:\Users\NORSEMAN\Desktop\DojoAssignments\C#\C# Basic\Simple CRUD with mySQL\bin\Debug\netcoreapp2.0\Simple CRUD with mySQL.pdb
+C:\Users\NORSEMAN\Desktop\DojoAssignments\C#\C# Basic\Simple CRUD with mySQL\obj\Debug\netcoreapp2.0\Simple CRUD with mySQL.csproj.CoreCompileInputs.cache
+C:\Users\NORSEMAN\Desktop\DojoAssignments\C#\C# Basic\Simple CRUD with mySQL\obj\Debug\netcoreapp2.0\Simple CRUD with mySQL.AssemblyInfoInputs.cache
+C:\Users\NORSEMAN\Desktop\DojoAssignments\C#\C# Basic\Simple CRUD with mySQL\obj\Debug\netcoreapp2.0\Simple CRUD with mySQL.AssemblyInfo.cs
+C:\Users\NORSEMAN\Desktop\DojoAssignments\C#\C# Basic\Simple CRUD with mySQL\obj\Debug\netcoreapp2.0\Simple CRUD with mySQL.dll
+C:\Users\NORSEMAN\Desktop\DojoAssignments\C#\C# Basic\Simple CRUD with mySQL\obj\Debug\netcoreapp2.0\Simple CRUD with mySQL.pdb
